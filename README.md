@@ -15,4 +15,4 @@ Example of Bencoded data:
  - Lists: `l4:spami7ee` - ['spam',7]
  - Dictionary: `d4:spami7ee` - {spam:7}
 
-4. In this file only there is url of the tracker mentioned with announce 
+In this file only there is url of the tracker mentioned with announce 
